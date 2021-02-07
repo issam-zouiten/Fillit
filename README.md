@@ -8,6 +8,7 @@ Fillit is not about recoding Tetris, even if it’s still a variant of this game
 https://user-images.githubusercontent.com/44867969/94937147-18711800-04c7-11eb-8fa6-d5fa77a2637a.jpg
 
 # How to compile
+
 1- git clone https://github.com/issam-zouiten/Fillit.git
 2- make
 3- ./fillit maps/test-3.map
